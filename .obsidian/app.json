@@ -1,0 +1,8 @@
+{
+  "userIgnoreFilters": [
+    "target/",
+    "bin/",
+    ".idea/",
+    "*.class"
+  ]
+}
